@@ -8,6 +8,7 @@ I'm Ezequiel Lopez, a Backend-focused Full Stack Developer; feel free to browse 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-111?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=python&logoColor=3776AB)
+![GOlang](https://img.shields.io/badge/-GOlang-111?style=for-the-badge&logo=go&logoColor=73CFDE)
 
 ##### ✨ Frontend stack
 
